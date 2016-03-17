@@ -1,6 +1,3 @@
-// Create a heading: “Below ground veggies”.
-// Create a list to hold the below ground veggies.
-// Add the heading and list to the document.
 var $belowUl = $('<ul>');
 var $aboveUl = $('<ul>');
 
